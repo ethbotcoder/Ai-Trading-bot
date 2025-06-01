@@ -40,8 +40,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ## 🔗 Connect With Me
 
-- 📬 [Telegram](https://t.me/hudsondefi)
-- 💼 [LinkedIn](https://linkedin.com/in/hudsonwhittaker)
+- 📬 [Telegram](https://t.me/kasperdefi)
 
 ---
 
