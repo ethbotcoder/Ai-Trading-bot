@@ -40,7 +40,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ## 🔗 Connect With Me
 
-- 📬 [Telegram](https://t.me/kasperdefi)
+- 📬 [Telegram](https://t.me/KasperWeb3)
 
 ---
 
